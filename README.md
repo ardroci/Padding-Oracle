@@ -6,6 +6,8 @@ Com base nesta premissa, este projeto consistiu na decifra de um criptograma sem
 
 Exemplo de Utilização
 ---
->ciphertext='070707000304070777627d63716f737300120601080a18077d7f7c6969736d751e181a49011e18011a73722a606a7103'
->python skeleton.py -c $ciphertext
-> Solution: b'thecryptohobyistmayhaveread historical\x02\x02'
+```
+$ ciphertext='070707000304070777627d63716f737300120601080a18077d7f7c6969736d751e181a49011e18011a73722a606a7103'
+$ python skeleton.py -c $ciphertext
+$ Solution: b'thecryptohobyistmayhaveread historical\x02\x02'
+```
